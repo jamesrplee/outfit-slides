@@ -1,13 +1,13 @@
 {
-  "headline": "Registration is open",
-  "subheading": "Sales kick off, Europe, Middle East and Asia",
-  "background-image": "",
-  "headline-font-size": "0.8",
-  "subheading-font-size": "1",
-  "sko-color-theme": "slate",
-  "call-to-action": "Click to Deny.",
-  "headline-border": "border",
-  "sko-region": "Europe, Middle East & Africa",
-  "call-to-action-url": "#",
-  "hide-logos": ""
+  "title" : "Mobile Application Platform",
+  "subtitle" : "Sales eLearning",
+  "proficiency" : "Foundation",
+  "duration" : "20 minutes",
+  "sko-color-theme" : "red",
+  "contents-title": "Welcome",
+  "contents-text": "Feel free to return to this course and jump to the specific area of interest",
+  "general-title": "Mobile Application Platform",
+  "general-subtitle": "What is it?",
+  "general-copy": "Organizations need a single end-to-end platform to quickly create, integrate, and manage mobile apps.  Mobility is becoming a top priority for enterprises as it offers the promise to drive innovation and streamline operational efficiency.Think about how many times in your daily life you have said “I wish I had an app for that” or “I’m glad I have an app for that.”  Your clients are saying the same thing within each of their respective business divisions; Human Resources, Finance, Sales, Services etc.",
+  "copy-align": "right"
 }
